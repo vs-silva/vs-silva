@@ -43,9 +43,8 @@ Vitalino Silva is a Fullstack Javascript engineer interested in software archite
 
 <a href="http://www.github.com/vs-silva"><img src="https://github-readme-stats.vercel.app/api?username=vs-silva&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="vs-silva's GitHub stats" /></a>
 
-
-![](https://github-readme-stats.vercel.app/api?username=vs-silva&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EDGI9&layout=compact&theme=radical)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=vs-silva&theme=dark&hide_border=false)<br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vs-silva&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
