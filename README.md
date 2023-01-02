@@ -4,13 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack Javascript Engineer
 -----------------------------
 
-Vitalino Silva is a Fullstack Javascript engineer interested in software architecture and web development. In his spare time, he runs a Brazilian jiu-jitsu academy where he teaches about self-defense.
+Vitalino Silva is a Fullstack Javascript engineer interested in software architecture and web development.<br/>
+In his spare time, he runs a Brazilian jiu-jitsu academy where he teaches about self-defense.
 
-* 🌍  I'm based in Santa Maria da Feira, Portugal
-* 🧠  I'm learning everything Javascript and Hexagonal Architecture
+* 🌍  Santa Maria da Feira, Portugal
+* 🧠  Always learning about Javascript, Software Architecture and Web Development
 
 ### Skills
-
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
