@@ -9,7 +9,7 @@ In his spare time, he runs a Brazilian jiu-jitsu academy where he teaches about 
 
 * 🌍  Santa Maria da Feira, Portugal
 * 🧠  Always learning about Javascript, Software Architecture and Web Development
-* 🖥️  Website at [vitalinosilva.com](https://vitalinosilva.com/?to=/vitalinosilva.com)
+* 🖥️  Blog at <a href="https://vitalinosilva.com/" target="_blank">vitalinosilva.com</a>
 
 ### Skills
 
