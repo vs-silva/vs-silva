@@ -4,8 +4,24 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack Javascript Engineer
 -----------------------------
 
-Vitalino Silva is a Fullstack Javascript engineer interested in software architecture and web development.<br/>
-In his spare time, he runs a Brazilian jiu-jitsu academy where he teaches about self-defense.
+HTML | CSS | TailwindCSS | Javascript | Typescript | jQuery | Vue | React | Jest | Vitest | Cypress | Express.js | NestJS | Node | MongoDB | Git
+
+Fullstack Javascript engineer, with over a decade of experience, interested in software architecture and web development.
+
+Skilled in :
+- Creating web applications from the ground up.
+- Implementing dynamic and responsive user interfaces
+- APIs integration ( RESTful and GraphQL )
+- Development of modular and testable code to ensure quality.
+- Creating reusable, modular code to improve maintainability and scalability.
+
+A highly motivated, diligent and proactive individual who can be relied upon to work as a team member or as an individual.
+
+So, if in need of help in your project, feel free to reach out.
+Look forward to hear from you!
+
+Regards,
+VitalinoSilva
 
 * 🌍  Santa Maria da Feira, Portugal
 * 🧠  Always learning about Javascript, Software Architecture and Web Development
