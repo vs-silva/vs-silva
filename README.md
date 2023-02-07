@@ -8,15 +8,13 @@ HTML | CSS | TailwindCSS | Javascript | Typescript | jQuery | Vue | React | Jest
 
 Fullstack Javascript engineer, with over a decade of experience, interested in software architecture and web development.
 
-
 Skilled in :
 - Creating web applications from the ground up.
 - Implementing dynamic and responsive user interfaces
 - APIs integration ( RESTful and GraphQL )
 - Development of modular and testable code to ensure quality.
 - Creating reusable, modular code to improve maintainability and scalability.
-&nbsp;
-&nbsp;
+
 A highly motivated, diligent and proactive individual who can be relied upon to work as a team member or as an individual.
 
 So, if in need of help in your project, feel free to reach out.<br/>
