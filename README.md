@@ -17,10 +17,10 @@ Skilled in :
 
 A highly motivated, diligent and proactive individual who can be relied upon to work as a team member or as an individual.
 
-So, if in need of help in your project, feel free to reach out.
+So, if in need of help in your project, feel free to reach out.<br/>
 Look forward to hear from you!
 
-Regards,
+Regards,<br/>
 VitalinoSilva
 
 * 🌍  Santa Maria da Feira, Portugal
