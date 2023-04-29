@@ -6,19 +6,17 @@ Fullstack Javascript Engineer
 
 HTML | CSS | TailwindCSS | Javascript | Typescript | jQuery | Vue | React | Jest | Vitest | Cypress | Express.js | NestJS | Node | MongoDB | Git
 
-Fullstack Javascript engineer, with over a decade of experience, interested in software architecture and web development.
+As a Javascript Engineer with over a decade of experience, I'm passionate about software architecture and web development, specifically utilizing the Hexagonal Architecture approach.
 
-Skilled in :
-- Creating web applications from the ground up.
-- Implementing dynamic and responsive user interfaces
-- APIs integration ( RESTful and GraphQL )
-- Development of modular and testable code to ensure quality.
-- Creating reusable, modular code to improve maintainability and scalability.
+My development approach focuses on Test Driven Development (TDD), ensuring that every aspect of the application is thoroughly tested before deployment.
 
-A highly motivated, diligent and proactive individual who can be relied upon to work as a team member or as an individual.
+I'm proficient in a wide range of tools and technologies, including Vite, Vitest, Testing Library / React Testing Library, React, Redux Toolkit, React Router, i18n, Axios, Mitt, Vue 2 (options API), Vuex, Vue 3 (composition API), Pinia, Vue Router, Expressjs, NodeJs, Supertest, momentJs, jQuery, Git, GitHub, and GitLab.
 
-So, if in need of help in your project, feel free to reach out.<br/>
-Look forward to hear from you!
+With my expertise, I can create web applications from scratch, implement dynamic and responsive user interfaces, integrate APIs (both RESTful and GraphQL), and develop modular and testable code to ensure top-notch quality. Additionally, I specialize in creating reusable, modular code to improve maintainability and scalability.
+
+As a highly motivated, diligent, and proactive individual, I can work seamlessly in a team or as an individual. If you need assistance with your project, don't hesitate to reach out. I'd be thrilled to help in any way I can.
+
+I look forward to hearing from you!
 
 Regards,<br/>
 VitalinoSilva
