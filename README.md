@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack Javascript Engineer
 -----------------------------
 
-A Javascript Engineer, passionate about software architecture and web development, specifically utilizing Test Driven Development and the Hexagonal Architecture approach.<br/>
+A Fullstack Javascript Engineer, passionate about software architecture and web development, specifically utilizing Test Driven Development and the Hexagonal Architecture approach.<br/>
 
 Javascript | Typescript | Node.js | Express.js | RESTful APIs | Prisma | MongoDB | Vue.js | Nuxt | React.js | Vitest | Jest | Testing Library | Supertest | Cypress
 <br/>
