@@ -9,8 +9,6 @@ A Javascript Engineer, passionate about software architecture and web developmen
 Javascript | Typescript | Node.js | Express.js | RESTful APIs | Prisma | MongoDB | Vue.js | Nuxt | React.js | Vitest | Jest | Testing Library | Supertest | Cypress
 <br/>
 
-
-* 🌍  Santa Maria da Feira, Portugal
 * 🧠  Always learning about Javascript, Software Architecture and Web Development
 * 🖥️  Blog at <a href="https://vitalinosilva.com/" target="_blank">vitalinosilva.com</a>
 
@@ -26,7 +24,7 @@ Javascript | Typescript | Node.js | Express.js | RESTful APIs | Prisma | MongoDB
 
 ### Tools
 
-<p align="left">
+<p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -42,19 +40,23 @@ Javascript | Typescript | Node.js | Express.js | RESTful APIs | Prisma | MongoDB
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 </p>
 
-
 ### Socials
 
-<p align="left"><a href="https://www.linkedin.com/in/vitalinosilva/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="center">
+<a href="https://www.linkedin.com/in/vitalinosilva/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+</p>
 
 ### Badges
 
-<b>My GitHub Stats</b>
+<p align="center"><b>My GitHub Stats</b></p>
 
-<a href="http://www.github.com/vs-silva"><img src="https://github-readme-stats.vercel.app/api?username=vs-silva&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="vs-silva's GitHub stats" /></a>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=EDGI9&layout=compact&theme=radical)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=vs-silva&theme=dark&hide_border=false)<br/>
+<p align="center">
+<a href="http://www.github.com/vs-silva"><img src="https://github-readme-stats.vercel.app/api?username=vs-silva&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="vs-silva's GitHub stats" /></a><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EDGI9&layout=compact&theme=radical" /><br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vs-silva&theme=dark&hide_border=false" /><br/>
+</p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vs-silva&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=vs-silva&theme=onedark&no-frame=false&no-bg=true&margin-w=4" />
+</p>
