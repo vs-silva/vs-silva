@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vitalino Silva
 ======================================================================================================================================
 
-Fullstack Javascript Engineer
+Javascript Engineer
 -----------------------------
 
-A Fullstack Javascript Engineer, passionate about software architecture and web development, specifically utilizing Test Driven Development and the Hexagonal Architecture approach.<br/>
+A Javascript Engineer, passionate about software architecture and web development, specifically utilizing Test Driven Development and the Hexagonal Architecture approach.<br/>
 
 Javascript | Typescript | Node.js | Express.js | RESTful APIs | Prisma | MongoDB | Vue.js | Nuxt | React.js | Vitest | Jest | Testing Library | Supertest | Cypress
 <br/>
