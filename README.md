@@ -15,6 +15,19 @@ Javascript | Typescript | Node.js | Express.js | RESTful APIs | Prisma | MongoDB
 * 🖥️  Blog at <a href="https://vitalinosilva.com/" target="_blank">vitalinosilva.com</a>
 
 ### Skills
+<p>
+  <ul>
+    <li>Web client application development and integration with backend services, RESTFul and or GraphQL APIs.</li>
+    <li>User interface implementation and component development.</li>
+    <li>Collaborate with cross-functional teams including designers, product owners, and other developers to launch new features and improve existing ones.</li>
+    <li>Write clean, efficient, scalable, maintainable and testable code base utilizing Test driven development ( TDD ) approach and Hexagonal Architecture ( Ports and Adapters ).</li>
+    <li>Identify and troubleshoot application issues and bugs in a timely manner.</li>
+    <li>Development of Fullstack applications using the MERN Stack or NUXT framework.</li>
+  </ul>
+</p>
+
+
+### Tools
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
