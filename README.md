@@ -17,12 +17,9 @@ Javascript | Typescript | Node.js | Express.js | RESTful APIs | Prisma | MongoDB
 ### Skills
 <p>
   <ul>
-    <li>Web client application development and integration with backend services, RESTFul and or GraphQL APIs.</li>
-    <li>User interface implementation and component development.</li>
-    <li>Collaborate with cross-functional teams including designers, product owners, and other developers to launch new features and improve existing ones.</li>
-    <li>Write clean, efficient, scalable, maintainable and testable code base utilizing Test driven development ( TDD ) approach and Hexagonal Architecture ( Ports and Adapters ).</li>
-    <li>Identify and troubleshoot application issues and bugs in a timely manner.</li>
+    <li>Web client application development</li>
     <li>Development of Fullstack applications using the MERN Stack or NUXT framework.</li>
+    <li>Write clean, efficient, scalable, maintainable and testable code base utilizing Test driven development ( TDD ) approach and Hexagonal Architecture ( Ports and Adapters ).</li> 
   </ul>
 </p>
 
