@@ -13,4 +13,6 @@
 
 🌍 Open to remote opportunities | Fluent in English & Portuguese
 
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/vitalinosilva/)
+
 🚀 Let’s build something robust, elegant, and meaningful.
