@@ -12,7 +12,3 @@
 📦 I build from scratch, modernize legacy codebases, and contribute to high-impact projects that demand technical excellence and business value.
 
 🌍 Open to remote opportunities | Fluent in English & Portuguese
-
-🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/vitalinosilva/)
-
-🚀 Let’s build something robust, elegant, and meaningful.
