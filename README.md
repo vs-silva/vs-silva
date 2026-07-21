@@ -6,7 +6,8 @@ I am specialized in software architecture with Hexagonal Architecture (Ports & A
 
 Throughout my career, I’ve collaborated on numerous projects for national and international clients. Along the way, I’ve partnered with, learned from, and mentored talented people to deliver exceptional products. I’m naturally curious, approachable, and committed to continuous improvement.
 
-🛠️ Skills and Core strengths:
+🛠️ **Skills and Core strengths:**
+
 **Full-Stack JavaScript:** MERN Stack, Next.js or Nuxt  
 **API Integrations:** RESTful & GraphQL  
 **Application State Management:** React + Redux Toolkit / Vue + Pinia  
