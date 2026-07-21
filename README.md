@@ -5,8 +5,8 @@ I am a Javascript engineer and frontend developer with nearly two decades of exp
 I am specialized in software architecture with Hexagonal Architecture (Ports & Adapters) and an advocate of Test-Driven Development (TDD).
 
 Throughout my career, I’ve collaborated on numerous projects for national and international clients. Along the way, I’ve partnered with, learned from, and mentored talented people to deliver exceptional products. I’m naturally curious, approachable, and committed to continuous improvement.
-<br/>
-<br/>
+
+
 🛠️ **Skills and Core strengths:**
 
 **Full-Stack JavaScript:** MERN Stack, Next.js or Nuxt  
